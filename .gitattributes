@@ -15,7 +15,9 @@ Redmine.Client/NewIssueForm.resx -text
 Redmine.Client/Program.cs -text
 Redmine.Client/Properties/AssemblyInfo.cs -text
 Redmine.Client/Properties/Resources.resx -text
+Redmine.Client/Properties/Resources1.Designer.cs -text
 Redmine.Client/Properties/Settings.settings -text
+Redmine.Client/Properties/Settings1.Designer.cs -text
 Redmine.Client/Redmine.Client.csproj -text
 Redmine.Client/RedmineClientForm.Designer.cs -text
 Redmine.Client/RedmineClientForm.cs -text
