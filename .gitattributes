@@ -6,7 +6,6 @@ Redmine.Client/AboutBox.resx -text
 Redmine.Client/App.config -text
 Redmine.Client/Assignees.cs -text
 Redmine.Client/Enumerations.cs -text
-Redmine.Client/IIssue.cs -text
 Redmine.Client/IssueFormData.cs -text
 Redmine.Client/MainFormData.cs -text
 Redmine.Client/NewIssueForm.Designer.cs -text
