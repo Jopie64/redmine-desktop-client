@@ -7,11 +7,11 @@ Redmine.Client/App.config -text
 Redmine.Client/Assignees.cs -text
 Redmine.Client/ClientExtensionMethods.cs -text
 Redmine.Client/Enumerations.cs -text
+Redmine.Client/IssueForm.Designer.cs -text
+Redmine.Client/IssueForm.cs -text
+Redmine.Client/IssueForm.resx -text
 Redmine.Client/IssueFormData.cs -text
 Redmine.Client/MainFormData.cs -text
-Redmine.Client/NewIssueForm.Designer.cs -text
-Redmine.Client/NewIssueForm.cs -text
-Redmine.Client/NewIssueForm.resx -text
 Redmine.Client/Program.cs -text
 Redmine.Client/Properties/AssemblyInfo.cs -text
 Redmine.Client/Properties/Resources.resx -text
