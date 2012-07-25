@@ -1,4 +1,5 @@
 * text=auto !eol
+/ApiPatchr52.patch -text
 /README.txt -text
 Redmine.Client/AboutBox.Designer.cs -text
 Redmine.Client/AboutBox.cs -text
@@ -29,4 +30,3 @@ Redmine.Client/Utility.cs -text
 Redmine.Client/aboutclock.png -text
 Redmine.Client/clock.ico -text
 /RedmineClient.sln -text
-/Whitespace.patch -text
