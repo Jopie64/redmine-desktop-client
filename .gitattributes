@@ -12,6 +12,9 @@ Redmine.Client/IssueForm.Designer.cs -text
 Redmine.Client/IssueForm.cs -text
 Redmine.Client/IssueForm.resx -text
 Redmine.Client/IssueFormData.cs -text
+Redmine.Client/Languages/Lang.Designer.cs -text
+Redmine.Client/Languages/Lang.nl.resx -text
+Redmine.Client/Languages/Lang.resx -text
 Redmine.Client/MainFormData.cs -text
 Redmine.Client/Program.cs -text
 Redmine.Client/Properties/AssemblyInfo.cs -text
