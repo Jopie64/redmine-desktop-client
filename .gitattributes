@@ -34,3 +34,5 @@ Redmine.Client/Utility.cs -text
 Redmine.Client/aboutclock.png -text
 Redmine.Client/clock.ico -text
 /RedmineClient.sln -text
+Setup/Product.wxs -text
+Setup/Setup.wixproj -text
