@@ -22,10 +22,13 @@ Redmine.Client/Program.cs -text
 Redmine.Client/Properties/AssemblyInfo.cs -text
 Redmine.Client/Properties/Resources.resx -text
 Redmine.Client/Properties/Resources1.Designer.cs -text
+Redmine.Client/Properties/Settings.Designer.cs -text
+Redmine.Client/Properties/Settings.settings -text
 Redmine.Client/Redmine.Client.csproj -text
 Redmine.Client/RedmineClientForm.Designer.cs -text
 Redmine.Client/RedmineClientForm.cs -text
 Redmine.Client/RedmineClientForm.resx -text
+Redmine.Client/Settings.cs -text
 Redmine.Client/SettingsForm.Designer.cs -text
 Redmine.Client/SettingsForm.cs -text
 Redmine.Client/SettingsForm.resx -text
