@@ -7,6 +7,9 @@ Redmine.Client/AboutBox.resx -text
 Redmine.Client/Assignees.cs -text
 Redmine.Client/BgWork.cs -text
 Redmine.Client/ClientExtensionMethods.cs -text
+Redmine.Client/CommitForm.Designer.cs -text
+Redmine.Client/CommitForm.cs -text
+Redmine.Client/CommitForm.resx -text
 Redmine.Client/Enumerations.cs -text
 Redmine.Client/IssueForm.Designer.cs -text
 Redmine.Client/IssueForm.cs -text
