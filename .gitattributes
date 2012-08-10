@@ -1,5 +1,4 @@
 * text=auto !eol
-/ApiPatchr52.patch -text
 /README.txt -text
 Redmine.Client/AboutBox.Designer.cs -text
 Redmine.Client/AboutBox.cs -text
