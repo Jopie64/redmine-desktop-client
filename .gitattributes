@@ -38,5 +38,8 @@ Redmine.Client/Utility.cs -text
 Redmine.Client/res/aboutclock.png -text
 Redmine.Client/res/clock.ico -text
 /RedmineClient.sln -text
+Setup/Banner.bmp -text
+Setup/Dialog.bmp -text
+Setup/License.RedmineClient.rtf -text svneol=unset#unset
 Setup/Product.wxs -text
 Setup/Setup.wixproj -text
