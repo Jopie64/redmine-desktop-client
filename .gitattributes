@@ -35,8 +35,8 @@ Redmine.Client/SettingsForm.Designer.cs -text
 Redmine.Client/SettingsForm.cs -text
 Redmine.Client/SettingsForm.resx -text
 Redmine.Client/Utility.cs -text
-Redmine.Client/aboutclock.png -text
-Redmine.Client/clock.ico -text
+Redmine.Client/res/aboutclock.png -text
+Redmine.Client/res/clock.ico -text
 /RedmineClient.sln -text
 Setup/Product.wxs -text
 Setup/Setup.wixproj -text
