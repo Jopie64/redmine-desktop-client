@@ -1,4 +1,6 @@
 * text=auto !eol
+Installer/Bundle.wxs -text
+Installer/Installer.wixproj -text
 /README.txt -text
 Redmine.Client/AboutBox.Designer.cs -text
 Redmine.Client/AboutBox.cs -text
@@ -36,7 +38,10 @@ Redmine.Client/SettingsForm.cs -text
 Redmine.Client/SettingsForm.resx -text
 Redmine.Client/Utility.cs -text
 Redmine.Client/res/aboutclock.png -text
+Redmine.Client/res/clock-installer.png -text
+Redmine.Client/res/clock-transparant.png -text
 Redmine.Client/res/clock.ico -text
+Redmine.Client/res/clock.png -text
 /RedmineClient.sln -text
 Setup/Banner.bmp -text
 Setup/Dialog.bmp -text

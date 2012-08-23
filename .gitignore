@@ -1,3 +1,5 @@
+Installer/bin
+Installer/obj
 Redmine.Client/Properties/Resources.Designer.cs
 Redmine.Client/bin
 Redmine.Client/obj
