@@ -22,13 +22,13 @@ Redmine.Client/Languages/Lang.resx -text
 Redmine.Client/Languages/LangTools.cs -text
 Redmine.Client/MainFormData.cs -text
 Redmine.Client/Program.cs -text
-Redmine.Client/Properties/App.config -text
 Redmine.Client/Properties/AssemblyInfo.cs -text
 Redmine.Client/Properties/Resources.resx -text
 Redmine.Client/Properties/Resources1.Designer.cs -text
 Redmine.Client/Properties/Settings.Designer.cs -text
 Redmine.Client/Properties/Settings.cs -text
 Redmine.Client/Properties/Settings.settings -text
+Redmine.Client/Properties/app.config -text
 Redmine.Client/Redmine.Client.csproj -text
 Redmine.Client/RedmineClientForm.Designer.cs -text
 Redmine.Client/RedmineClientForm.cs -text
