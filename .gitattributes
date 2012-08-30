@@ -11,6 +11,12 @@ Redmine.Client/ClientExtensionMethods.cs -text
 Redmine.Client/CommitForm.Designer.cs -text
 Redmine.Client/CommitForm.cs -text
 Redmine.Client/CommitForm.resx -text
+Redmine.Client/EditEnumForm.Designer.cs -text
+Redmine.Client/EditEnumForm.cs -text
+Redmine.Client/EditEnumForm.resx -text
+Redmine.Client/EditEnumListForm.Designer.cs -text
+Redmine.Client/EditEnumListForm.cs -text
+Redmine.Client/EditEnumListForm.resx -text
 Redmine.Client/Enumerations.cs -text
 Redmine.Client/IssueForm.Designer.cs -text
 Redmine.Client/IssueForm.cs -text
