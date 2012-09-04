@@ -1,5 +1,4 @@
 * text=auto !eol
-/GetTotalObjectList.patch -text
 Installer/Bundle.wxs -text
 Installer/Installer.wixproj -text
 /README.txt -text
