@@ -44,6 +44,7 @@ Redmine.Client/SettingsForm.Designer.cs -text
 Redmine.Client/SettingsForm.cs -text
 Redmine.Client/SettingsForm.resx -text
 Redmine.Client/Utility.cs -text
+Redmine.Client/app.config -text
 Redmine.Client/res/aboutclock.png -text
 Redmine.Client/res/clock-installer.png -text
 Redmine.Client/res/clock-transparant.png -text
