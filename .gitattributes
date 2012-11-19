@@ -25,6 +25,7 @@ Redmine.Client/Languages/Lang.Designer.cs -text
 Redmine.Client/Languages/Lang.cs-CZ.resx -text
 Redmine.Client/Languages/Lang.de.resx -text
 Redmine.Client/Languages/Lang.nl.resx -text
+Redmine.Client/Languages/Lang.pt-BR.resx -text
 Redmine.Client/Languages/Lang.resx -text
 Redmine.Client/Languages/LangTools.cs -text
 Redmine.Client/MainFormData.cs -text
