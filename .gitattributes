@@ -6,6 +6,7 @@ Redmine.Client/AboutBox.cs -text
 Redmine.Client/AboutBox.resx -text
 Redmine.Client/Assignees.cs -text
 Redmine.Client/BgWork.cs -text
+Redmine.Client/BgWorker.cs -text
 Redmine.Client/ClientExtensionMethods.cs -text
 Redmine.Client/CommitForm.Designer.cs -text
 Redmine.Client/CommitForm.cs -text
@@ -45,6 +46,9 @@ Redmine.Client/RedmineClientForm.resx -text
 Redmine.Client/SettingsForm.Designer.cs -text
 Redmine.Client/SettingsForm.cs -text
 Redmine.Client/SettingsForm.resx -text
+Redmine.Client/TimeEntriesForm.Designer.cs -text
+Redmine.Client/TimeEntriesForm.cs -text
+Redmine.Client/TimeEntriesForm.resx -text
 Redmine.Client/Utility.cs -text
 Redmine.Client/app.config -text
 Redmine.Client/res/aboutclock.png -text
