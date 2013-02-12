@@ -4,7 +4,6 @@ Installer/Installer.wixproj -text
 Redmine.Client/AboutBox.Designer.cs -text
 Redmine.Client/AboutBox.cs -text
 Redmine.Client/AboutBox.resx -text
-Redmine.Client/Assignees.cs -text
 Redmine.Client/BgWork.cs -text
 Redmine.Client/BgWorker.cs -text
 Redmine.Client/ClientExtensionMethods.cs -text
@@ -32,6 +31,7 @@ Redmine.Client/Languages/Lang.resx -text
 Redmine.Client/Languages/LangTools.cs -text
 Redmine.Client/MainFormData.cs -text
 Redmine.Client/Program.cs -text
+Redmine.Client/ProjectMember.cs -text
 Redmine.Client/Properties/AssemblyInfo.cs -text
 Redmine.Client/Properties/Resources.resx -text
 Redmine.Client/Properties/Resources1.Designer.cs -text
@@ -49,6 +49,9 @@ Redmine.Client/SettingsForm.resx -text
 Redmine.Client/TimeEntriesForm.Designer.cs -text
 Redmine.Client/TimeEntriesForm.cs -text
 Redmine.Client/TimeEntriesForm.resx -text
+Redmine.Client/TimeEntryForm.Designer.cs -text
+Redmine.Client/TimeEntryForm.cs -text
+Redmine.Client/TimeEntryForm.resx -text
 Redmine.Client/Utility.cs -text
 Redmine.Client/app.config -text
 Redmine.Client/res/aboutclock.png -text
