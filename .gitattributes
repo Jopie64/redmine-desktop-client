@@ -1,6 +1,7 @@
 * text=auto !eol
 Installer/Bundle.wxs -text
 Installer/Installer.wixproj -text
+/ParseTimeEntryCorrectly.patch -text
 Redmine.Client/AboutBox.Designer.cs -text
 Redmine.Client/AboutBox.cs -text
 Redmine.Client/AboutBox.resx -text
