@@ -4,6 +4,9 @@ Installer/Installer.wixproj -text
 Redmine.Client/AboutBox.Designer.cs -text
 Redmine.Client/AboutBox.cs -text
 Redmine.Client/AboutBox.resx -text
+Redmine.Client/AttachmentForm.Designer.cs -text
+Redmine.Client/AttachmentForm.cs -text
+Redmine.Client/AttachmentForm.resx -text
 Redmine.Client/BgWork.cs -text
 Redmine.Client/BgWorker.cs -text
 Redmine.Client/ClientExtensionMethods.cs -text
