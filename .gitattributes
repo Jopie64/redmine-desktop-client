@@ -55,6 +55,9 @@ Redmine.Client/TimeEntriesForm.resx -text
 Redmine.Client/TimeEntryForm.Designer.cs -text
 Redmine.Client/TimeEntryForm.cs -text
 Redmine.Client/TimeEntryForm.resx -text
+Redmine.Client/UpdateIssueNoteForm.Designer.cs -text
+Redmine.Client/UpdateIssueNoteForm.cs -text
+Redmine.Client/UpdateIssueNoteForm.resx -text
 Redmine.Client/Utility.cs -text
 Redmine.Client/app.config -text
 Redmine.Client/res/aboutclock.png -text
