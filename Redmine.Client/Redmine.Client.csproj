@@ -240,7 +240,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Redmine.Api\Api.csproj">
+    <ProjectReference Include="..\Redmine.Api\Api\Api.csproj">
       <Project>{F99E4720-D2A0-461B-A454-E6169BFA8C38}</Project>
       <Name>Api</Name>
     </ProjectReference>

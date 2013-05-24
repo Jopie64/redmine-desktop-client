@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redmine.Client", "Redmine.Client\Redmine.Client.csproj", "{07ABD877-B270-4054-B10E-7AA4DEBD37E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Redmine.Api\Api.csproj", "{F99E4720-D2A0-461B-A454-E6169BFA8C38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Redmine.Api\Api\Api.csproj", "{F99E4720-D2A0-461B-A454-E6169BFA8C38}"
 EndProject
 Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "Setup", "Setup\Setup.wixproj", "{CAE8E32C-D717-4ED3-A795-C5D10FDBE64E}"
 	ProjectSection(ProjectDependencies) = postProject
