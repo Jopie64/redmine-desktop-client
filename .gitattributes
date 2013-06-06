@@ -24,6 +24,9 @@ Redmine.Client/IssueForm.Designer.cs -text
 Redmine.Client/IssueForm.cs -text
 Redmine.Client/IssueForm.resx -text
 Redmine.Client/IssueFormData.cs -text
+Redmine.Client/IssueGridSelectColumns.Designer.cs -text
+Redmine.Client/IssueGridSelectColumns.cs -text
+Redmine.Client/IssueGridSelectColumns.resx -text
 Redmine.Client/Languages/Lang.Designer.cs -text
 Redmine.Client/Languages/Lang.cs-CZ.resx -text
 Redmine.Client/Languages/Lang.de.resx -text
