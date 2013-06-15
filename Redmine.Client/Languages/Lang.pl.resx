@@ -118,206 +118,206 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AuthenticationCheckBox" xml:space="preserve">
-    <value>Gebruik authenticatie</value>
+    <value>Wymaga uwierzytelniania</value>
   </data>
   <data name="BtnAboutButton" xml:space="preserve">
-    <value>Over...</value>
+    <value>O...</value>
   </data>
   <data name="BtnCommitButton" xml:space="preserve">
-    <value>Opslaan</value>
+    <value>Zatwierdź</value>
   </data>
   <data name="BtnExitButton" xml:space="preserve">
-    <value>Exit</value>
+    <value>Wyjdź</value>
   </data>
   <data name="BtnNewIssueButton" xml:space="preserve">
-    <value>Nieuw</value>
+    <value>Nowy</value>
   </data>
   <data name="BtnRefreshButton" xml:space="preserve">
-    <value>Ververs</value>
+    <value>Odśwież</value>
   </data>
   <data name="BtnResetButton" xml:space="preserve">
-    <value>Herstart</value>
+    <value>Zresetuj</value>
   </data>
   <data name="BtnSettingsButton" xml:space="preserve">
-    <value>Instellingen</value>
+    <value>Ustawienia</value>
   </data>
   <data name="BtnStartButton" xml:space="preserve">
     <value>Start</value>
   </data>
   <data name="BtnStartButton_Pause" xml:space="preserve">
-    <value>Pause</value>
+    <value>Pauza</value>
   </data>
   <data name="CommitConfirmQuestion" xml:space="preserve">
-    <value>Klaar om op te slaan?</value>
+    <value>Gotowy do wysłania?</value>
   </data>
   <data name="CommitConfirmText" xml:space="preserve">
-    <value>Weet je zeker dat je de volgende gegevens op wilt slaan: {6}Project: {0}, Activiteit: {1}, Incident: {2},{6}Datum: {3}, Commentaar: {4}, Tijd: {5}</value>
+    <value>Czy na pewno chcesz zatwierdzić następujący wpis: {6} Projekt: {0}, Rodzaj działań: {1}, Zagadnienie: {2},{6} Data: {3}, Komentarz: {4}, Czas: {5}</value>
     <comment>{0} ProjectName; {1} ActivityName; {2} IssueId; {3} Date; {4} Comment; {5} Time(Hours) {6} newline</comment>
   </data>
   <data name="CommitNoActivitySelected" xml:space="preserve">
-    <value>Er is geen activiteit geselecteerd</value>
+    <value>Nie wybrałeś rodzaju działań.</value>
   </data>
   <data name="CommitNoIssueSelected" xml:space="preserve">
-    <value>Er is geen incident geselecteerd.</value>
+    <value>Nie wybrałeś żadnego zagadnienia.</value>
   </data>
   <data name="CommitNoTime" xml:space="preserve">
-    <value>Er is geen tijd om op te slaan</value>
+    <value>Nie wprowadziłeś czasu do zarejestrowania...</value>
   </data>
   <data name="CommitSuccessfullText" xml:space="preserve">
-    <value>De tijd is opgeslagen</value>
+    <value>Czas pracy został poprawnie zarejestrowany.</value>
   </data>
   <data name="CommitSuccessfullTitle" xml:space="preserve">
-    <value>Opgeslagen</value>
+    <value>Czas pracy został zarejestrowany</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Fout</value>
+    <value>Błąd</value>
   </data>
   <data name="Error_Exception" xml:space="preserve">
-    <value>Exceptie: {0}</value>
+    <value>Wyjątek: {0}</value>
     <comment>{0} exception message</comment>
   </data>
   <data name="Error_NoProjectsFound" xml:space="preserve">
-    <value>Geen projecten gevonden in Redmine.</value>
+    <value>Nie znaleziono żadnych projektów w Redmine.</value>
   </data>
   <data name="Error_Startup" xml:space="preserve">
-    <value>Opstart probleem. Controleer de instellingen.</value>
+    <value>Błąd uruchamiania. Sprawdź konfigurację.</value>
     <comment>The settings dialog will be started after this message</comment>
   </data>
   <data name="Error_ValueOutOfRange" xml:space="preserve">
-    <value>Waarde buiten bereik</value>
+    <value>Wartość poza zakresem</value>
   </data>
   <data name="labelActivity" xml:space="preserve">
-    <value>Activiteit</value>
+    <value>Rodzaj działań</value>
     <comment>Choose the Activity for the time commit</comment>
   </data>
   <data name="labelComment" xml:space="preserve">
-    <value>Commentaar</value>
+    <value>Komentarz</value>
     <comment>Comment of time commit</comment>
   </data>
   <data name="labelProject" xml:space="preserve">
-    <value>Project</value>
+    <value>Projekt</value>
     <comment>Choose the Project</comment>
   </data>
   <data name="labelRedminePassword" xml:space="preserve">
-    <value>Redmine wachtwoord</value>
+    <value>Hasło do Redmine</value>
   </data>
   <data name="labelRedmineURL" xml:space="preserve">
-    <value>Redmine URL</value>
+    <value>Adres Redmine</value>
   </data>
   <data name="labelRedmineUsername" xml:space="preserve">
-    <value>Redmine gebruikersnaam</value>
+    <value>Nazwa użytkownika Redmine / Klucz API</value>
   </data>
   <data name="NewVersionText" xml:space="preserve">
-    <value>Er is een nieuwe versie beschikbaar, wil je naar de download locatie?</value>
+    <value>Dostępna jest nowa wersja. Czy chesz abym otworzył stronę pobierania?</value>
   </data>
   <data name="NewVersionTitle" xml:space="preserve">
-    <value>Nieuwe versie</value>
+    <value>Nowa wersja</value>
   </data>
   <data name="RestoreToolStrip_Hide" xml:space="preserve">
-    <value>&amp;Verberg</value>
+    <value>&amp;Ukryj</value>
   </data>
   <data name="RestoreToolStrip_Minimize" xml:space="preserve">
-    <value>Mi&amp;nimaliseer</value>
+    <value>Zmi&amp;nimalizuj</value>
   </data>
   <data name="RestoreToolStrip_Restore" xml:space="preserve">
-    <value>&amp;Zet terug</value>
+    <value>Przyw&amp;róć</value>
   </data>
   <data name="Warning" xml:space="preserve">
-    <value>Waarschuwing</value>
+    <value>Ostrzeżenie</value>
   </data>
   <data name="BtnCancelButton" xml:space="preserve">
-    <value>Annuleer</value>
+    <value>Anuluj</value>
   </data>
   <data name="BtnCloseButton" xml:space="preserve">
-    <value>Sluit Incident</value>
+    <value>Zamknij zagadnienie</value>
   </data>
   <data name="BtnSaveButton" xml:space="preserve">
-    <value>Opslaan</value>
+    <value>Zapisz</value>
   </data>
   <data name="cbDueDate" xml:space="preserve">
-    <value>Einddatum</value>
+    <value>Termin wykonania</value>
   </data>
   <data name="cbStartDate" xml:space="preserve">
-    <value>Begindatum</value>
+    <value>Data rozpoczęcia</value>
   </data>
   <data name="CheckForUpdatesCheckBox" xml:space="preserve">
-    <value>Controleer op nieuwe versie bij start</value>
+    <value>Przy uruchamianiu sprawdź czy jest nowa wersja</value>
   </data>
   <data name="CloseIssueText" xml:space="preserve">
-    <value>Weet je zeker dat je incident {0} wilt sluiten?</value>
+    <value>Czy na pewno chcesz zamknąć zagadnienie {0}?</value>
     <comment>{0} IssueId</comment>
   </data>
   <data name="DlgIssueTitleEdit" xml:space="preserve">
-    <value>Bewerk Incident {0} van project {1}</value>
+    <value>Edycja zagadnienia {0} w ramach projektu {1}</value>
     <comment>{0} IssueId; {1} ProjectName</comment>
   </data>
   <data name="DlgIssueTitleNew" xml:space="preserve">
-    <value>Maak een Nieuw Incident bij project {0}</value>
+    <value>Utwórz nowe zagadnienie w projekcie {0}</value>
     <comment>{0} ProjectName</comment>
   </data>
   <data name="DlgSettingsTitle" xml:space="preserve">
-    <value>Instellingen</value>
+    <value>Ustawienia</value>
   </data>
   <data name="Error_CreateIssueFailed" xml:space="preserve">
-    <value>Het maken van het incident is fout gegaan; De server antwoordde: {0}</value>
+    <value>Tworzenie nowego zagadnienia nie powiodło się. Odpowiedź serwera: {0}</value>
     <comment>{0} exception message</comment>
   </data>
   <data name="Error_InvalidUrl" xml:space="preserve">
-    <value>De URL van uw Redmine installatie is incorrect.</value>
+    <value>Nieprawidłowy adres instalacji Redmine.</value>
   </data>
   <data name="Error_IssueSubjectMandatory" xml:space="preserve">
-    <value>Het onderwerp van een incident is verplicht</value>
+    <value>Temat zagadnienia musi zostać wprowadzony</value>
   </data>
   <data name="Error_UpdateIssueFailed" xml:space="preserve">
-    <value>Het bijwerken van het incident is fout gegaan; De server antwoordde: {0}</value>
+    <value>Aktualizacja zagadnienia nie powiodła się. Odpowiedź serwera: {0}</value>
     <comment>{0} exception message</comment>
   </data>
   <data name="labelAssignedTo" xml:space="preserve">
-    <value>Toegewezen aan</value>
+    <value>Przypisane do</value>
   </data>
   <data name="labelCacheLifetime" xml:space="preserve">
-    <value>Cache levensduur (minuten, 0 = oneindig)</value>
+    <value>Ważność pamięci podręcznej (w minutach, 0 = nieskończony)</value>
   </data>
   <data name="labelDescription" xml:space="preserve">
-    <value>Beschrijving</value>
+    <value>Opis</value>
   </data>
   <data name="labelEstimatedTime" xml:space="preserve">
-    <value>Verwachte Duur</value>
+    <value>Szacunkowy czas</value>
   </data>
   <data name="labelLanguage" xml:space="preserve">
-    <value>Taal</value>
+    <value>Język</value>
   </data>
   <data name="labelPercentDone" xml:space="preserve">
-    <value>% Done</value>
+    <value>% wykonane</value>
   </data>
   <data name="labelPopupTimout" xml:space="preserve">
-    <value>Popup dialoog wanneer geminimaliseerd
-of Vraag aandacht elke
-(minuten, 0 = nooit)</value>
+    <value>Wyświetl komunikat gdy zminimalizowany
+lub zażądaj reakcji co
+(minut, 0 = nigdy)</value>
   </data>
   <data name="labelPriority" xml:space="preserve">
-    <value>Prioriteit</value>
+    <value>Priorytet</value>
   </data>
   <data name="labelStatus" xml:space="preserve">
     <value>Status</value>
   </data>
   <data name="labelSubject" xml:space="preserve">
-    <value>Onderwerp</value>
+    <value>Temat</value>
   </data>
   <data name="labelTargetVersion" xml:space="preserve">
-    <value>Doel Versie</value>
+    <value>Wersja docelowa</value>
   </data>
   <data name="labelTracker" xml:space="preserve">
-    <value>Tracker</value>
+    <value>Rodzaj zagadnienia</value>
   </data>
   <data name="linkEditInRedmine" xml:space="preserve">
-    <value>Bewerk dit incident in Redmine</value>
+    <value>Edytuj te zagadnienie w Redmine</value>
   </data>
   <data name="MinimizeOnStartTimerCheckBox" xml:space="preserve">
-    <value>Minimaliseer bij start timer</value>
+    <value>Zminimalizuj po rozpoczęciu pomiaru czasu</value>
   </data>
   <data name="MinimizeToSystemTrayCheckBox" xml:space="preserve">
-    <value>Minimaliseer naar systeem tray</value>
+    <value>Minimalizuj do zasobnika systemowego</value>
   </data>
   <data name="RedmineClientTitle_NoUser" xml:space="preserve">
     <value>Redmine Client</value>
@@ -327,47 +327,47 @@ of Vraag aandacht elke
     <comment>{0} First name; {1} Last name</comment>
   </data>
   <data name="BgWork_CheckUpdates" xml:space="preserve">
-    <value>Controleren op nieuwe versie</value>
+    <value>Sprawdzam aktualizacje</value>
   </data>
   <data name="BgWork_GetFormData" xml:space="preserve">
-    <value>Ophalen van gegevens</value>
+    <value>Pobieram dane</value>
   </data>
   <data name="BgWork_GetUsername" xml:space="preserve">
-    <value>Ophalen van gebruikersnaam</value>
+    <value>Pobieram nazwę użytkownika</value>
   </data>
   <data name="CommitCancelSaveCommentQuestion" xml:space="preserve">
-    <value>Bewaar het nieuwe commentaar?</value>
+    <value>Zapisać nowy komentarz?</value>
   </data>
   <data name="CommitCancelSaveCommentText" xml:space="preserve">
-    <value>U heeft het opslaan van de gebruikte tijd afgebroken, maar het commentaar gewijzigd.{0}Wilt u het nieuwe commentaar gebruiken?</value>
+    <value>Anulowałeś zatwierdzanie wykorzystanego czasu, ale zmieniłeś komentarz.{0}Czy chcesz użyć nowego komentarza?</value>
     <comment>{0} newline</comment>
   </data>
   <data name="ExitToolStripMenuItem" xml:space="preserve">
-    <value>&amp;Sluiten</value>
+    <value>&amp;Zamknij</value>
   </data>
   <data name="labelCommitActivity" xml:space="preserve">
-    <value>Activiteit:</value>
+    <value>Rodzaj działań:</value>
   </data>
   <data name="labelCommitComment" xml:space="preserve">
-    <value>Commentaar:</value>
+    <value>Komentarz:</value>
   </data>
   <data name="labelCommitDateSpent" xml:space="preserve">
-    <value>Besteed op:</value>
+    <value>Spędzony na:</value>
   </data>
   <data name="labelCommitIssue" xml:space="preserve">
-    <value>Incident:</value>
+    <value>Zagadnienie:</value>
   </data>
   <data name="labelCommitProject" xml:space="preserve">
-    <value>Project:</value>
+    <value>Projekt:</value>
   </data>
   <data name="labelCommitQuestion" xml:space="preserve">
-    <value>Wilt u de volgende tijd opslaan?</value>
+    <value>Czy chcesz zatwierdzić następujący wpis?</value>
   </data>
   <data name="labelCommitTime" xml:space="preserve">
-    <value>Tijd (U):</value>
+    <value>Czas (h):</value>
   </data>
   <data name="Warning_ClosingSaveTimes" xml:space="preserve">
-    <value>De Redmine Client probeert af te sluiten, maar u bent de tijd aan het meten.{0}Wilt u de tijd nog opslaan?</value>
+    <value>Probujesz zamknąć Redmine Client, ale trwa pomiar czasu poświęconego na pracę.{0}Czy chcesz zatwierdzić wpis czasu pracy przed wyjściem?</value>
     <comment>{0} newline</comment>
   </data>
   <data name="ApiVersion_V10x" xml:space="preserve">
@@ -386,126 +386,126 @@ of Vraag aandacht elke
     <value>V2.1.x</value>
   </data>
   <data name="labelRedmineVersion" xml:space="preserve">
-    <value>Redmine Versie</value>
+    <value>Wersja Redmine</value>
   </data>
   <data name="BtnEditActivitiesButton" xml:space="preserve">
-    <value>Activiteiten</value>
+    <value>Działania</value>
   </data>
   <data name="BtnEditDocumentCategories" xml:space="preserve">
-    <value>Doc. Cat.</value>
+    <value>Kat. Dok.</value>
   </data>
   <data name="BtnEditIssuePriorities" xml:space="preserve">
-    <value>Prioriteiten</value>
+    <value>Priorytety</value>
   </data>
   <data name="BtnOKButton" xml:space="preserve">
     <value>OK</value>
   </data>
   <data name="DlgEditEnumFormTitle_Edit" xml:space="preserve">
-    <value>Wijzig Enumeratie waarde {0} voor {1}</value>
+    <value>Edycja dozwolonej wartości {0} dla {1}</value>
     <comment>{0} Current name of the Enumeration; {1} Name of the Enumeration set</comment>
   </data>
   <data name="DlgEditEnumFormTitle_New" xml:space="preserve">
-    <value>Nieuwe Enumeratie waarde voor {0}</value>
+    <value>Nowa wartość dla {0}</value>
     <comment>{0} Name of the Enumeration set</comment>
   </data>
   <data name="DlgEditEnumListFormTitle" xml:space="preserve">
-    <value>Wijzig enumeratie {0}</value>
+    <value>Edycja dozwolonych wartości {0}</value>
   </data>
   <data name="EnumName_Activities" xml:space="preserve">
-    <value>Activiteiten</value>
+    <value>Rodzaje działań</value>
   </data>
   <data name="EnumName_DocumentCategories" xml:space="preserve">
-    <value>Documenten Categorieën</value>
+    <value>Kategorie dokumentów</value>
   </data>
   <data name="EnumName_IssuePriorities" xml:space="preserve">
-    <value>Incident Prioriteiten</value>
+    <value>Priorytety zagadnień</value>
   </data>
   <data name="Error_EnumFieldIsMandatory" xml:space="preserve">
-    <value>{0} is een verplicht veld</value>
+    <value>Pole {0} musi zostać wypełnione.</value>
     <comment>{0} Fieldname</comment>
   </data>
   <data name="Error_EnumMustBeUnique" xml:space="preserve">
-    <value>Het Id en de Naam moeten uniek zijn.</value>
+    <value>Id i nazwa muszą być unikalne.</value>
   </data>
   <data name="GrpEditEnumerations" xml:space="preserve">
-    <value>Wijzig Enumeraties</value>
+    <value>Edytuj dozwolone wartości</value>
   </data>
   <data name="labelEnumId" xml:space="preserve">
     <value>Id</value>
   </data>
   <data name="labelEnumName" xml:space="preserve">
-    <value>Naam</value>
+    <value>Nazwa</value>
   </data>
   <data name="BtnAddButton" xml:space="preserve">
-    <value>Nieuw</value>
+    <value>Dodaj</value>
   </data>
   <data name="BtnDeleteButton" xml:space="preserve">
-    <value>Verwijder</value>
+    <value>Usuń</value>
   </data>
   <data name="BtnModifyButton" xml:space="preserve">
-    <value>Wijzig</value>
+    <value>Zmień</value>
   </data>
   <data name="BtnTestConnection" xml:space="preserve">
-    <value>Test Verbinding</value>
+    <value>Sprawdź połączenie</value>
   </data>
   <data name="CheckBoxClosesIssue" xml:space="preserve">
-    <value>Sluit ook het incident.</value>
+    <value>Zamknij też zagadnienie</value>
   </data>
   <data name="CheckBoxOnlyMe" xml:space="preserve">
-    <value>Toon alleen incidenten toegewezen aan mij</value>
+    <value>Pokaż tylko zagadnienia przypisane do mnie</value>
   </data>
   <data name="ConnectionTestFailed_Text" xml:space="preserve">
-    <value>Het opzetten van de verbinding met Redmine is mislukt. De volgende fout trad op: {0}</value>
+    <value>Połączenie z Redmine nie powiodło się. Wystąpił następujący błąd: {0}</value>
     <comment>{0} error</comment>
   </data>
   <data name="ConnectionTestFailed_Title" xml:space="preserve">
-    <value>Verbindingstest mislukt</value>
+    <value>Test połączenia nie powiódł się</value>
   </data>
   <data name="ConnectionTestOK_Text" xml:space="preserve">
-    <value>Het opzetten van de verbinding met Remine is gelukt</value>
+    <value>Pomyślnie nawiązano połączenie z Redmine.</value>
   </data>
   <data name="ConnectionTestOK_Title" xml:space="preserve">
-    <value>Verbindingstest gelukt</value>
+    <value>Połączenie testowe zostało pomyślnie nawiązane</value>
   </data>
   <data name="Error_ClosedStatusUnknown" xml:space="preserve">
-    <value>De status die gebruikt wordt om een incident te sluiten is onbekend. Pas dit alstublieft aan in de instellingen.</value>
+    <value>Status wykorzystywany do oznaczania zagadnienia jako zamknięte jest nieznany, przejdź do ustawień aby wskazać właściwą wartość.</value>
   </data>
   <data name="GrpApplicationSettings" xml:space="preserve">
-    <value>Applicatie Instellingen</value>
+    <value>Ustawienia aplikacji</value>
   </data>
   <data name="GrpRedmineServerSettings" xml:space="preserve">
-    <value>Redmine Server Instellingen</value>
+    <value>Ustawienia serwera Redmine</value>
   </data>
   <data name="labelExplClosingIssueStatus" xml:space="preserve">
-    <value>Maak onderstaande velden actief met &apos;Test Verbinding&apos; en een versie hoger dan V1.3.x</value>
+    <value>Aby odblokować pola przeprowadź test połączenia z Redmine w wersji 1.3.x lub wyższej</value>
   </data>
   <data name="labelSelectCloseStatus" xml:space="preserve">
-    <value>Bij het sluiten van een incident, gebruik</value>
+    <value>Podczas zamykania zagadnienia, ustaw na</value>
   </data>
   <data name="Question" xml:space="preserve">
-    <value>Vraag</value>
+    <value>Pytanie</value>
   </data>
   <data name="Timer_WasTickingWhenClosed" xml:space="preserve">
-    <value>De timer liep toen de client gestopt werd. Wilt u dat de timer verder gaat?</value>
+    <value>Licznik czasu był włączony gdy wyłączyłeś aplikację. Czy chcesz aby odliczanie było kontynowane?</value>
   </data>
   <data name="PauseTimerOnLockCheckBox" xml:space="preserve">
-    <value>Pauzeer de timer wanneer het scherm gelocked wordt of bij uitloggen</value>
+    <value>Wstrzymaj licznik przy zablokowanym ekranie i przy wylogowaniu</value>
   </data>
   <data name="UpdateIssueIfStateCheckBox" xml:space="preserve">
-    <value>Als de timer wordt gestart en het incident heeft de status</value>
+    <value>Gdy startujesz licznik a zagadnienie ma status</value>
   </data>
   <data name="UpdateIssueIfStateLabel" xml:space="preserve">
-    <value>zet dan de status op</value>
+    <value>ustaw wtedy status na</value>
   </data>
   <data name="Error_NewOrInProgressStatusUnknown" xml:space="preserve">
-    <value>De statussen die gebruikt worden om een nieuw incident naar een &apos;wordt aan gewerkt&apos; status te zetten, zijn onbekend. U kunt dit instellen in het instellingen scherm</value>
+    <value>Status wykorzystywany do oznaczania zagadnienia jako realizowanego jest nieznany, przejdź do ustawień aby wskazać właściwą wartość.</value>
   </data>
   <data name="IssueUpdatedToInProgress" xml:space="preserve">
-    <value>Het huidige geselecteerde incident {0} is bijgewerkt naar de &apos;wordt aan gewerkt&apos; status. (StatusId = {1})</value>
+    <value>Wybrane zagadnienie {0} jest oznaczane jako &quot;W realizacji&quot;. (StatusId = {1})</value>
     <comment>{0} Issue name; {1} Id of In Progress</comment>
   </data>
   <data name="Message" xml:space="preserve">
-    <value>Bericht</value>
+    <value>Wiadomość</value>
   </data>
   <data name="ApiVersion_V12x" xml:space="preserve">
     <value>V1.2.x</value>
@@ -517,191 +517,194 @@ of Vraag aandacht elke
     <value>V2.2.x</value>
   </data>
   <data name="BtnViewTimeButton" xml:space="preserve">
-    <value>Bekijk Uren</value>
+    <value>Zobacz czas</value>
   </data>
   <data name="BgWork_GetTimeEntries" xml:space="preserve">
-    <value>Ophalen van besteedde uren</value>
+    <value>Pobieram wpisy czasu pracy</value>
   </data>
   <data name="DlgTimeEntriesTitle" xml:space="preserve">
-    <value>Besteedde uren van incident {0} {1}</value>
+    <value>Podgląd czasu pracy nad zagadnieniem {0} {1}</value>
     <comment>{0} issuenumber; {1} issue subject</comment>
   </data>
   <data name="BgWork_GetIssue" xml:space="preserve">
-    <value>Ophalen van informatie van het incident</value>
+    <value>Pobieranie informacji o zagadnieniu</value>
   </data>
   <data name="DlgTimeEntryFormTitle_Edit" xml:space="preserve">
-    <value>Bewerk besteedde tijd van {0} voor incident {1} {2}</value>
+    <value>Edycja wpisu czasu pracy {0} dla zagadnienia {1} {2}</value>
     <comment>{0} Dat spent on {1} issue number; {2} issue subject</comment>
   </data>
   <data name="DlgTimeEntryFormTitle_New" xml:space="preserve">
-    <value>Nieuwe tijd toevoegen voor incident {0} {1}</value>
+    <value>Nowy wpisz czasu pracy dla zagadnienia {0} {1}</value>
     <comment>{0} issue number; {1} issue subject</comment>
   </data>
   <data name="labelTimeEntryTitle_Edit" xml:space="preserve">
-    <value>Bewerk besteedde tijd van {0} voor incident{3}{1} {2}</value>
+    <value>Edycja czasu pracy {0} dla zgłoszenia {3}{1} {2}</value>
     <comment>{0} Dat spent on {1} issue number; {2} issue subject</comment>
   </data>
   <data name="labelTimeEntryTitle_New" xml:space="preserve">
-    <value>Voeg nieuwe besteedde tijd toe voor incident{3}{0} {1}</value>
+    <value>Dodaj nowy wpis czasu pracy dla zagadnienia{3}{0} {1}</value>
     <comment>{0} issue number; {1} issue subject</comment>
   </data>
   <data name="labelByUser" xml:space="preserve">
-    <value>Door gebruiker</value>
+    <value>Przez użytkownika</value>
   </data>
   <data name="labelSpentHours" xml:space="preserve">
-    <value>Besteedde Uren</value>
+    <value>Wykorzystany czas</value>
   </data>
   <data name="labelSpentOn" xml:space="preserve">
-    <value>Besteed op</value>
+    <value>Wykorzystany na</value>
   </data>
   <data name="Warning_AreYouSureDeleteTimeEntry" xml:space="preserve">
-    <value>Weet u zeker dat u de tijd met id {0} wil verwijderen</value>
+    <value>Czy na pewno chcesz usunąć informacje o czasie pracy {0}</value>
     <comment>{0} time-entry id</comment>
   </data>
   <data name="LabelChildren" xml:space="preserve">
-    <value>Subtaken:</value>
+    <value>Podzagadnienia:</value>
   </data>
   <data name="LabelParent" xml:space="preserve">
-    <value>Hoofdtaak: {0} {1}</value>
+    <value>Rodzic: {0} {1}</value>
     <comment>{0} issue number; {1} issue subject</comment>
   </data>
   <data name="PauseToolStripMenuItem" xml:space="preserve">
-    <value>&amp;Pauze</value>
+    <value>&amp;Pauza</value>
   </data>
   <data name="StartToolStripMenuItem" xml:space="preserve">
     <value>&amp;Start</value>
   </data>
   <data name="addNewToolStripMenuItem" xml:space="preserve">
-    <value>Voeg nieuwe toe</value>
+    <value>Dodaj nowe</value>
   </data>
   <data name="BtnBrowseButton" xml:space="preserve">
-    <value>Blader</value>
+    <value>Przeglądaj</value>
   </data>
   <data name="DlgAttachmentTitle" xml:space="preserve">
-    <value>Nieuwe bijlage toevoegen voor incident {0} {1}</value>
+    <value>Dodawanie załącznika do zagadnienia {0} {1}</value>
     <comment>{0} issue number; {1} issue subject</comment>
   </data>
   <data name="downloadOpenToolStripMenuItem" xml:space="preserve">
-    <value>Download / Open</value>
+    <value>Pobierz / Otwórz</value>
   </data>
   <data name="groupBoxAttachments" xml:space="preserve">
-    <value>Bijlagen</value>
+    <value>Załącznik</value>
   </data>
   <data name="labelAttachmentDescription" xml:space="preserve">
-    <value>Beschrijving</value>
+    <value>Opis</value>
   </data>
   <data name="labelSelectAttachment" xml:space="preserve">
-    <value>Bijlage bestandsnaam</value>
+    <value>Plik załącznika</value>
   </data>
   <data name="NewIssue" xml:space="preserve">
-    <value>Nieuw incident</value>
+    <value>Nowe zagadnienie</value>
   </data>
   <data name="LabelRelations" xml:space="preserve">
-    <value>Relaties</value>
+    <value>Powiązania</value>
   </data>
   <data name="DlgUpdateIssueNoteTitle" xml:space="preserve">
-    <value>Bijwerken incident {0} {1}</value>
+    <value>Aktualizacja zagadnienia {0} {1}</value>
   </data>
   <data name="IssueField_assignedto" xml:space="preserve">
-    <value>Toegewezen aan</value>
+    <value>Przypisane do</value>
   </data>
   <data name="IssueField_author" xml:space="preserve">
-    <value>Toegevoegd door</value>
+    <value>Autor</value>
   </data>
   <data name="IssueField_category" xml:space="preserve">
-    <value>Categorie</value>
+    <value>Kategoria</value>
   </data>
   <data name="IssueField_createdon" xml:space="preserve">
-    <value>Aangemaakt op</value>
+    <value>Utworzone</value>
   </data>
   <data name="IssueField_description" xml:space="preserve">
-    <value>Beschrijving</value>
+    <value>Opis</value>
   </data>
   <data name="IssueField_doneratio" xml:space="preserve">
-    <value>% Gereed</value>
+    <value>Postęp realizacji</value>
   </data>
   <data name="IssueField_duedate" xml:space="preserve">
-    <value>Datum Gereed</value>
+    <value>Termin wykonania</value>
   </data>
   <data name="IssueField_estimatedhours" xml:space="preserve">
-    <value>Geschatte Tijd</value>
+    <value>Szacunkowy czas wykonania</value>
   </data>
   <data name="IssueField_fixedversion" xml:space="preserve">
-    <value>Versie</value>
+    <value>Wersja docelowa</value>
   </data>
   <data name="IssueField_parentissue" xml:space="preserve">
-    <value>Hoofdtaak</value>
+    <value>Zagadnienie nadrzędne</value>
   </data>
   <data name="IssueField_priority" xml:space="preserve">
-    <value>Prioriteit</value>
+    <value>Priorytet</value>
   </data>
   <data name="IssueField_project" xml:space="preserve">
-    <value>Project</value>
+    <value>Projekt</value>
   </data>
   <data name="IssueField_startdate" xml:space="preserve">
-    <value>Startdatum</value>
+    <value>Data rozpoczęcia</value>
   </data>
   <data name="IssueField_status" xml:space="preserve">
     <value>Status</value>
   </data>
   <data name="IssueField_subject" xml:space="preserve">
-    <value>Onderwerp</value>
+    <value>Temat</value>
   </data>
   <data name="IssueField_tracker" xml:space="preserve">
-    <value>Tracker</value>
+    <value>Rodzaj zagadnienia</value>
   </data>
   <data name="IssueField_updatedon" xml:space="preserve">
-    <value>Bijgewerkt op</value>
+    <value>Zaktualizowane</value>
   </data>
   <data name="labelCategory" xml:space="preserve">
-    <value>Categorie</value>
+    <value>Kategoria</value>
   </data>
   <data name="labelUpdateIssueNote" xml:space="preserve">
-    <value>Extra notities om de wijziging de beschrijven - laat leeg indien niet nodig</value>
+    <value>Dodatkowe notatki objaśniające wprowadzone zmiany - pozostaw puste jeżeli brak</value>
   </data>
   <data name="ShowAllIssues" xml:space="preserve">
-    <value>Toon alle incidenten</value>
+    <value>Pokaż wszystkie zagadnienia</value>
   </data>
   <data name="UpdatedField_Deleted" xml:space="preserve">
-    <value>{0} verwijderd ({1})</value>
+    <value>Usunięto {0} ({1})</value>
     <comment>{0} fieldname; {1} from value; {2} to value;</comment>
   </data>
   <data name="UpdatedField_Description" xml:space="preserve">
-    <value>De beschrijving is bijgewerkt</value>
+    <value>Opis został uaktualniony</value>
   </data>
   <data name="UpdatedField_SetTo" xml:space="preserve">
-    <value>{0} gewijzigd naar {2}</value>
+    <value>Ustawiono {0} na {2}</value>
     <comment>{0} fieldname; {1} from value; {2} to value;</comment>
   </data>
   <data name="UpdatedField_UpdatedTo" xml:space="preserve">
-    <value>{0} gewijzigd van {1} naar {2}</value>
+    <value>Zmieniono {0} z {1} na {2}</value>
     <comment>{0} fieldname; {1} from value; {2} to value;</comment>
   </data>
   <data name="AddNoteOnChangeCheckBox" xml:space="preserve">
-    <value>Voeg een notitie toe wanneer de status met bovenstaande opties wordt gewijzigd</value>
+    <value>Dodaj komentarz gdy zmieniany jest status z wykorzystaniem powyższych opcji</value>
   </data>
   <data name="BtnRefreshButton_Filter" xml:space="preserve">
-    <value>Filter</value>
+    <value>Filtr</value>
   </data>
   <data name="groupBoxFilter" xml:space="preserve">
-    <value>Filter</value>
+    <value>Filtr</value>
   </data>
   <data name="editVisibleColumnsToolStripMenuItem" xml:space="preserve">
-    <value>&amp;Wijzig zichtbare kolommen</value>
+    <value>&amp;Edytuj widoczne kolumny</value>
   </data>
   <data name="IssueField_id" xml:space="preserve">
     <value>Id</value>
   </data>
   <data name="BtnClearButton" xml:space="preserve">
-    <value>Reset Filter</value>
+    <value>Wyczyść</value>
   </data>
   <data name="editVisibleColumnsHeaderToolStripMenuItem" xml:space="preserve">
-    <value>&amp;Wijzig zichtbare kolommen</value>
+    <value>&amp;Edytuj widoczne kolumny</value>
   </data>
   <data name="openIssueInBrowserToolStripMenuItem" xml:space="preserve">
-    <value>Open incident in &amp;Browser</value>
+    <value>Otwórz zagadnienie w przeg&amp;lądarce</value>
   </data>
   <data name="openIssueToolStripMenuItem" xml:space="preserve">
-    <value>&amp;Open incident</value>
+    <value>&amp;Otwórz zagadnienie</value>
+  </data>
+  <data name="labelCommunicationType" xml:space="preserve">
+    <value>Połącz używając</value>
   </data>
 </root>
